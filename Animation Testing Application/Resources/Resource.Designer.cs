@@ -293,6 +293,153 @@ namespace Animation_Testing_Application
 			// aapt resource value: 0x7f020052
 			public const int Icon = 2130837586;
 			
+			// aapt resource value: 0x7f020053
+			public const int moon_floating_all_locked = 2130837587;
+			
+			// aapt resource value: 0x7f020054
+			public const int moon_floating_all_locked_01 = 2130837588;
+			
+			// aapt resource value: 0x7f020055
+			public const int moon_floating_all_locked_02 = 2130837589;
+			
+			// aapt resource value: 0x7f020056
+			public const int moon_floating_all_locked_03 = 2130837590;
+			
+			// aapt resource value: 0x7f020057
+			public const int moon_floating_all_locked_04 = 2130837591;
+			
+			// aapt resource value: 0x7f020058
+			public const int moon_floating_all_locked_05 = 2130837592;
+			
+			// aapt resource value: 0x7f020059
+			public const int moon_floating_all_locked_06 = 2130837593;
+			
+			// aapt resource value: 0x7f02005a
+			public const int moon_floating_all_locked_07 = 2130837594;
+			
+			// aapt resource value: 0x7f02005b
+			public const int moon_floating_all_locked_08 = 2130837595;
+			
+			// aapt resource value: 0x7f02005c
+			public const int moon_floating_all_locked_09 = 2130837596;
+			
+			// aapt resource value: 0x7f02005d
+			public const int moon_floating_all_locked_10 = 2130837597;
+			
+			// aapt resource value: 0x7f02005e
+			public const int moon_floating_all_locked_11 = 2130837598;
+			
+			// aapt resource value: 0x7f02005f
+			public const int moon_floating_all_locked_12 = 2130837599;
+			
+			// aapt resource value: 0x7f020060
+			public const int moon_floating_all_locked_13 = 2130837600;
+			
+			// aapt resource value: 0x7f020061
+			public const int moon_floating_all_locked_14 = 2130837601;
+			
+			// aapt resource value: 0x7f020062
+			public const int moon_floating_all_locked_15 = 2130837602;
+			
+			// aapt resource value: 0x7f020063
+			public const int moon_floating_all_locked_16 = 2130837603;
+			
+			// aapt resource value: 0x7f020064
+			public const int moon_floating_all_locked_17 = 2130837604;
+			
+			// aapt resource value: 0x7f020065
+			public const int moon_floating_all_locked_18 = 2130837605;
+			
+			// aapt resource value: 0x7f020066
+			public const int moon_floating_all_locked_19 = 2130837606;
+			
+			// aapt resource value: 0x7f020067
+			public const int moon_floating_all_locked_20 = 2130837607;
+			
+			// aapt resource value: 0x7f020068
+			public const int moon_floating_all_locked_21 = 2130837608;
+			
+			// aapt resource value: 0x7f020069
+			public const int moon_floating_all_locked_22 = 2130837609;
+			
+			// aapt resource value: 0x7f02006a
+			public const int moon_floating_all_locked_23 = 2130837610;
+			
+			// aapt resource value: 0x7f02006b
+			public const int moon_floating_all_locked_24 = 2130837611;
+			
+			// aapt resource value: 0x7f02006c
+			public const int moon_floating_all_locked_25 = 2130837612;
+			
+			// aapt resource value: 0x7f02006d
+			public const int moon_floating_all_locked_26 = 2130837613;
+			
+			// aapt resource value: 0x7f02006e
+			public const int moon_floating_all_locked_27 = 2130837614;
+			
+			// aapt resource value: 0x7f02006f
+			public const int moon_floating_all_locked_28 = 2130837615;
+			
+			// aapt resource value: 0x7f020070
+			public const int moon_floating_all_locked_29 = 2130837616;
+			
+			// aapt resource value: 0x7f020071
+			public const int moon_floating_all_locked_30 = 2130837617;
+			
+			// aapt resource value: 0x7f020072
+			public const int moon_floating_all_locked_31 = 2130837618;
+			
+			// aapt resource value: 0x7f020073
+			public const int moon_floating_all_locked_32 = 2130837619;
+			
+			// aapt resource value: 0x7f020074
+			public const int moon_floating_all_locked_33 = 2130837620;
+			
+			// aapt resource value: 0x7f020075
+			public const int moon_floating_all_locked_34 = 2130837621;
+			
+			// aapt resource value: 0x7f020076
+			public const int moon_floating_all_locked_35 = 2130837622;
+			
+			// aapt resource value: 0x7f020077
+			public const int moon_floating_all_locked_36 = 2130837623;
+			
+			// aapt resource value: 0x7f020078
+			public const int moon_floating_all_locked_37 = 2130837624;
+			
+			// aapt resource value: 0x7f020079
+			public const int moon_floating_all_locked_38 = 2130837625;
+			
+			// aapt resource value: 0x7f02007a
+			public const int moon_floating_all_locked_39 = 2130837626;
+			
+			// aapt resource value: 0x7f02007b
+			public const int moon_floating_all_locked_40 = 2130837627;
+			
+			// aapt resource value: 0x7f02007c
+			public const int moon_floating_all_locked_41 = 2130837628;
+			
+			// aapt resource value: 0x7f02007d
+			public const int moon_floating_all_locked_42 = 2130837629;
+			
+			// aapt resource value: 0x7f02007e
+			public const int moon_floating_all_locked_43 = 2130837630;
+			
+			// aapt resource value: 0x7f02007f
+			public const int moon_floating_all_locked_44 = 2130837631;
+			
+			// aapt resource value: 0x7f020080
+			public const int moon_floating_all_locked_45 = 2130837632;
+			
+			// aapt resource value: 0x7f020081
+			public const int moon_floating_all_locked_46 = 2130837633;
+			
+			// aapt resource value: 0x7f020082
+			public const int moon_floating_all_locked_47 = 2130837634;
+			
+			// aapt resource value: 0x7f020083
+			public const int moon_floating_all_locked_48 = 2130837635;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
